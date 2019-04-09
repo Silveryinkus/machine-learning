@@ -2,17 +2,17 @@
 
 This folder will contain all regression topics and associated projects:
 
-Simple Linear Regression
+1. Simple Linear Regression
 
-Multiple Linear Regression
+2. Multiple Linear Regression
 
-Polynomial Regression
+3. Polynomial Regression
 
-Support Vector Regression (SVR)
+4. Support Vector Regression (SVR)
 
-Decision Tree Regression
+5. Decision Tree Regression
 
-Random Forest Regression
+6. Random Forest Regression
 
 Evaluating Regression Model Performance
 

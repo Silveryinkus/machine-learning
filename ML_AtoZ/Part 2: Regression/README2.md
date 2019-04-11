@@ -1,4 +1,4 @@
-# Part 2: Regression
+# Part 2: Regressio
 
 This folder will contain all regression topics and associated projects:
 

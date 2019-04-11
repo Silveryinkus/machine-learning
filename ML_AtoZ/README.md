@@ -4,4 +4,4 @@
 
 #### https://www.udemy.com/machinelearning/
 
-This folder contains all learning and exercising from the Machine learning course on Udemy
+This folder contains all exercses and projects from the Machine learning course on Udemy

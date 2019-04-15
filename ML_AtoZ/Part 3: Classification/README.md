@@ -22,3 +22,19 @@ In this part, you will understand and learn how to implement the following Machi
 6. Decision Tree Classification
 
 7. Random Forest Classification
+
+
+
+**How do we determing which model is the best?**
+- CAP Curve = Cumulative Accuracy Profile Curve
+- the gain chart
+- the ideal line: if you had the crystal ball = perfect model
+- ROC Receiver Operating Charateristics != CAP
+- perfect model vs good model vs random model
+
+**Prediction goal:** 
+- 90% < X < 100% too good - over fitting/ forward looking variables
+- 80% < X < 90% very good - but check for overfiting
+- 70% < X < 80% good -> goal
+- 60% < X < 70% poor- not recommneded
+- x < 60% very poor - danger zone
